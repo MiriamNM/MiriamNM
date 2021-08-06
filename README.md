@@ -1,4 +1,4 @@
-![MyLogo](https://raw.githubusercontent.com/MiriamNM/MiriamNM/main/assets/LogoGitHub.png)
+![MyLogo](https://raw.githubusercontent.com/MiriamNM/MiriamNM.github.io/main/assets/LogoGitHub.png)
 
 # About me:
 -I’m Front-end developer 😏 and Artificial Intelligence Developer to be 🌐.
