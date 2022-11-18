@@ -1,7 +1,7 @@
 ![MyLogo](https://raw.githubusercontent.com/MiriamNM/MiriamNM.github.io/main/assets/LogoGitHub.png)
 
 # About me:
-## I’m Fullstack developer jr 😏 and Artificial Intelligence Developer to be 🌐.
+## I’m Fullstack developer jr 😏 and Solution Architect to be 🌐.
 
 ## Too, I am teacher Yogini 🎆. 
 
